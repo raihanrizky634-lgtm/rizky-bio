@@ -15,6 +15,7 @@ const navLinks = [
   { name: 'Home', href: '#home' },
   { name: 'About', href: '#about' },
   { name: 'Achievements', href: '#achievements' },
+  { name: 'Education', href: '#education' },
   { name: 'Tournaments', href: '#tournaments' },
   { name: 'Gallery', href: '#gallery' },
   { name: 'Contact', href: '#contact' }
@@ -30,7 +31,7 @@ const closeMenu = () => {
 
 // Track active section on scroll
 const handleScroll = () => {
-  const sections = ['home', 'about', 'achievements', 'tournaments', 'gallery', 'contact']
+  const sections = ['home', 'about', 'achievements', 'education', 'tournaments', 'gallery', 'contact']
   const scrollPosition = window.scrollY + 100 // offset for navbar height
 
   for (const section of sections) {

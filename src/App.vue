@@ -7,6 +7,7 @@ import Navbar from './components/Navbar.vue'
 import HeroSection from './components/HeroSection.vue'
 import AboutSection from './components/AboutSection.vue'
 import AchievementsSection from './components/AchievementsSection.vue'
+import EducationSection from './components/EducationSection.vue'
 import TournamentsSection from './components/TournamentsSection.vue'
 import GallerySection from './components/GallerySection.vue'
 import ContactSection from './components/ContactSection.vue'
@@ -50,6 +51,7 @@ onMounted(() => {
       <HeroSection :profile="profile" />
       <AboutSection :profile="profile" />
       <AchievementsSection :achievements="profile.achievements" />
+      <EducationSection :education="profile.education" />
       <TournamentsSection :tournaments="profile.tournaments" />
       <GallerySection :gallery="profile.gallery" />
       <ContactSection :contacts="profile.contacts" />

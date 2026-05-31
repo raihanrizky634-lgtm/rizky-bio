@@ -94,6 +94,40 @@
       "caption": "Deep in thought, managing time on the clock during a high-stakes blitz tiebreaker."
     }
   ],
+  "education": [
+    {
+      "stage": "SD (Elementary)",
+      "school": "SD Citra Islamic",
+      "period": "2015 - 2021",
+      "status": "completed",
+      "chessPiece": "pawn",
+      "description": "Discovered my passion for chess. Joined the school chess club and won my first primary school tournament, laying the foundation for my journey."
+    },
+    {
+      "stage": "SMP (Junior High)",
+      "school": "SMP Citra Islamic",
+      "period": "2021 - 2024",
+      "status": "completed",
+      "chessPiece": "knight",
+      "description": "Began rigorous training and competed in regional championships. Developed strategic thinking, calculation skills, and tactical discipline."
+    },
+    {
+      "stage": "SMA (Senior High)",
+      "school": "SMA Citra Islamic",
+      "period": "2024 - Present",
+      "status": "active",
+      "chessPiece": "bishop",
+      "description": "Currently balancing academic excellence with professional chess training. Representing my school and region at national chess tournaments."
+    },
+    {
+      "stage": "College (University)",
+      "school": "Top Tier University (CS / Math)",
+      "period": "Target 2027",
+      "status": "future",
+      "chessPiece": "queen",
+      "description": "Future goal to pursue higher education in Computer Science or Mathematics, aiming to earn the FIDE Master title alongside my studies."
+    }
+  ],
   "contacts": {
     "email": "fajar.pratama@example.com",
     "instagram": "@fajar.pratama_chess",
