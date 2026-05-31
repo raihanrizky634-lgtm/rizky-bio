@@ -7,8 +7,8 @@
   "bio": "I am a high school student and competitive chess athlete dedicated to strategic excellence. Balancing academic pursuits with intensive training schedules, I represent my region at national chess championships. My goal is to attain the FIDE Master title while pursuing excellence in computer science and mathematics.",
   "rating": 1850,
   "experienceYears": 7,
-  "profileImage": "/src/assets/images/profile.png",
-  "heroBgImage": "/src/assets/images/hero_bg.png",
+  "profileImage": "/images/profile.png",
+  "heroBgImage": "/images/hero_bg.png",
   "achievements": [
     {
       "year": 2026,
@@ -82,15 +82,15 @@
   ],
   "gallery": [
     {
-      "image": "/src/assets/images/gallery1.png",
+      "image": "/images/gallery1.png",
       "caption": "Focused calculation during a critical game at the Jakarta Regional Championship."
     },
     {
-      "image": "/src/assets/images/gallery2.png",
+      "image": "/images/gallery2.png",
       "caption": "Receiving the gold medal and trophy at the O2SN National Awards Ceremony."
     },
     {
-      "image": "/src/assets/images/gallery3.png",
+      "image": "/images/gallery3.png",
       "caption": "Deep in thought, managing time on the clock during a high-stakes blitz tiebreaker."
     }
   ],
