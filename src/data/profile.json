@@ -1,0 +1,102 @@
+{
+  "name": "Rizky Fajar",
+  "title": "Chess Athlete & High School Student",
+  "school": "SMA Citra Islamic",
+  "city": "Jakarta",
+  "country": "Indonesia",
+  "bio": "I am a high school student and competitive chess athlete dedicated to strategic excellence. Balancing academic pursuits with intensive training schedules, I represent my region at national chess championships. My goal is to attain the FIDE Master title while pursuing excellence in computer science and mathematics.",
+  "rating": 1850,
+  "experienceYears": 7,
+  "profileImage": "/src/assets/images/profile.png",
+  "heroBgImage": "/src/assets/images/hero_bg.png",
+  "achievements": [
+    {
+      "year": 2026,
+      "title": "Gold Medalist - National Student Chess Championship (O2SN)",
+      "description": "Ranked #1 out of 64 regional champions in the high school category."
+    },
+    {
+      "year": 2025,
+      "title": "1st Place - Jakarta Regional Junior Chess Championship",
+      "description": "Won the U-17 category with an undefeated score of 6.5/7."
+    },
+    {
+      "year": 2025,
+      "title": "Best Junior Player - Indonesia Open Chess Tournament",
+      "description": "Finished top among players under 18 in a field of international masters."
+    },
+    {
+      "year": 2024,
+      "title": "2nd Place - National Junior Chess Championship (U-16)",
+      "description": "Earned silver medal and secured a spot in the national youth training camp."
+    },
+    {
+      "year": 2023,
+      "title": "3rd Place - High School Invitational Chess Blitz",
+      "description": "Podium finish in a fast-paced blitz tournament (3 mins + 2 sec increment)."
+    }
+  ],
+  "tournaments": [
+    {
+      "name": "National Student Chess Championship (O2SN)",
+      "year": 2026,
+      "result": "Gold Medal (1st Place)",
+      "location": "Yogyakarta",
+      "notes": "Classic format, 9 rounds Swiss system."
+    },
+    {
+      "name": "Jakarta Regional Junior Chess Championship",
+      "year": 2025,
+      "result": "Champion (1st Place)",
+      "location": "Jakarta",
+      "notes": "U-17 Category."
+    },
+    {
+      "name": "Indonesia Open Chess Tournament",
+      "year": 2025,
+      "result": "12th Overall & Best Junior Award",
+      "location": "Bali",
+      "notes": "FIDE Rated open tournament."
+    },
+    {
+      "name": "National Junior Chess Championship",
+      "year": 2024,
+      "result": "Silver Medal (2nd Place)",
+      "location": "Bandung",
+      "notes": "U-16 Category."
+    },
+    {
+      "name": "High School Chess League",
+      "year": 2024,
+      "result": "Team Champion & MVP",
+      "location": "Jakarta",
+      "notes": "Board 1 player, undefeated."
+    },
+    {
+      "name": "DKI Jakarta Youth Chess Open",
+      "year": 2023,
+      "result": "Bronze Medal (3rd Place)",
+      "location": "Jakarta",
+      "notes": "Rapid Chess format (15+10)."
+    }
+  ],
+  "gallery": [
+    {
+      "image": "/src/assets/images/gallery1.png",
+      "caption": "Focused calculation during a critical game at the Jakarta Regional Championship."
+    },
+    {
+      "image": "/src/assets/images/gallery2.png",
+      "caption": "Receiving the gold medal and trophy at the O2SN National Awards Ceremony."
+    },
+    {
+      "image": "/src/assets/images/gallery3.png",
+      "caption": "Deep in thought, managing time on the clock during a high-stakes blitz tiebreaker."
+    }
+  ],
+  "contacts": {
+    "email": "fajar.pratama@example.com",
+    "instagram": "@fajar.pratama_chess",
+    "github": "fajar-pratama"
+  }
+}
